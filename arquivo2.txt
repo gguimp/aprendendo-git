@@ -1,1 +1,4 @@
 [master] arquivo 2
+[branch1] alterado
+[branch1] alterado
+
