@@ -1,1 +1,2 @@
 [master] arquivo 4
+[branch1] altera arquivo 3
