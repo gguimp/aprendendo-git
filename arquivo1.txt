@@ -1,4 +1,4 @@
 [master] arquivo 01
 [master] Alterado teste01
-[master] arquivo 01 alterado
+[master] arquivo 01 alterado (master)
 [master] alterado
