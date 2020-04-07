@@ -2,4 +2,4 @@
 [master] Alterado teste01
 [master] arquivo 01 alterado (master)
 [master] Gustavo alterado amend
-[master] outra alteração
+[master] outra alteração amend
